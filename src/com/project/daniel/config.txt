@@ -1,0 +1,2 @@
+sql_url = mysql://localhost:3306/coupon?useSSL=false&serverTimezone=UTC
+sql_user = root
