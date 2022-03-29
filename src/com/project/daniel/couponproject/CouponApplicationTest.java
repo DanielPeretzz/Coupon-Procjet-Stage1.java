@@ -9,7 +9,7 @@ import com.project.daniel.couponproject.util.testUtil;
 public class CouponApplicationTest {
 
     public static void main(String[] args) {
-
+    //run test
         try {
             testAll();
         } catch (ApplicationException e) {
